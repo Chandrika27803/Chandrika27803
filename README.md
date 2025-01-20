@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chandrika27803
+- 👋 Hi, I’m Chandrika
 - 👀 I’m interested in decoding data and binge-watching shows like it’s a sport🏆
 - 🌱 I’m currently learning Data Science – turning messy data into “ta-da!” moments✨
 - 💞️ I’m looking to collaborate on projects that make me say, “Wow, I built that!” 🚀
